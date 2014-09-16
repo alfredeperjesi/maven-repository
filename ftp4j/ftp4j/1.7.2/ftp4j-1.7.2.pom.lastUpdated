@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 22 14:03:09 BST 2013
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1379854443884
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1379854442174
+http\://ftp.cica.es/mirrors/maven2/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1379854444538
+https\://github.com/Takuto88/ftp4j/raw/master/maven-repository/releases/.lastUpdated=1379854759016
+@default-https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1379854989640
+http\://repo.maven.apache.org/maven2/.error=
+@default-https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1379854989109
+https\://repository.jboss.org/nexus/content/repositories/central/.error=Could not transfer artifact ftp4j\:ftp4j\:pom\:1.7.2 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/central/)\: Failed to transfer file\: https\://repository.jboss.org/nexus/content/repositories/central/ftp4j/ftp4j/1.7.2/ftp4j-1.7.2.pom. Return code is\: 503 , ReasonPhrase\:Service Temporarily Unavailable.
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.error=Could not transfer artifact ftp4j\:ftp4j\:pom\:1.7.2 from/to javanet (https\://repository.jboss.org/nexus/content/repositories/java.net-m2/)\: Failed to transfer file\: https\://repository.jboss.org/nexus/content/repositories/java.net-m2/ftp4j/ftp4j/1.7.2/ftp4j-1.7.2.pom. Return code is\: 503 , ReasonPhrase\:Service Temporarily Unavailable.
+http\://www.terracotta.org/download/reflector/releases/.error=
+http\://ftp.cica.es/mirrors/maven2/.lastUpdated=1379854443051
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact ftp4j\:ftp4j\:pom\:1.7.2 from/to repository.jboss.org-public (https\://repository.jboss.org/nexus/content/groups/public)\: Failed to transfer file\: https\://repository.jboss.org/nexus/content/groups/public/ftp4j/ftp4j/1.7.2/ftp4j-1.7.2.pom. Return code is\: 503 , ReasonPhrase\:Service Temporarily Unavailable.
+https\://github.com/Takuto88/ftp4j/raw/master/maven-repository/releases/.error=
+@default-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1379854988571
